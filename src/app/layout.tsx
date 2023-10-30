@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Next E--Commerce 13",
-  description: "Next E--Commerce utilizandoma versão 13",
+  description: "Next E--Commerce utilizando a versão 13",
 };
 
 export default function RootLayout({
